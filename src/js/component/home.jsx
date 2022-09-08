@@ -15,7 +15,7 @@ const Home = () => {
 			<Navbar/>
 			</div>
 			<Jumbotron/>
-			<div className="d-flex justify-content-around">
+			<div className="row">
 			<Card/>
 			<Card/>
 			<Card/>
