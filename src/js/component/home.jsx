@@ -10,12 +10,12 @@ import Footer from "./footer.jsx"
 //create your first component
 const Home = () => {
 	return (
-		<div className="text-center container-fluid">
+		<div className="text-center">
 			<div>
 			<Navbar/>
 			</div>
 			<Jumbotron/>
-			<div className="row">
+			<div className="row mt-3 justify-content-center container mx-auto ">
 			<Card/>
 			<Card/>
 			<Card/>
